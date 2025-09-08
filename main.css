@@ -10,6 +10,7 @@
   --scroll: var(--a-b);
   --sort-1: var(--a);
   --f-sel-sh: var(--a);
+  --bg-uiv2-1: var(--a-b);
 }
 
 .opview.act {
@@ -467,7 +468,7 @@ body#b {
   }
 
   #detree {
-    padding: 20px;
+    padding: 0px;
   }
 
   &:hover {
